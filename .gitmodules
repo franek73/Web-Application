@@ -1,0 +1,3 @@
+[submodule "vendor/mongodb/mongodb"]
+	path = vendor/mongodb/mongodb
+	url = https://github.com/mongodb/mongo-php-library.git
